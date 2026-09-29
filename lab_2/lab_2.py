@@ -45,7 +45,7 @@ by cell using the '# %%' markers), or top to bottom as a single script.
 # which is a common way to work through a lab.
 
 
-LAB_FOLDER = r"\Users\ncachanosky\OneDrive\Research\GitHub\ECON-5371-lab\lab_2"
+LAB_FOLDER = r"/Users/ximer/Desktop/UTEP/Fall 2026/Econometric Forecasting/ECON-5371-LAB/lab_2"
 
 import os
 
